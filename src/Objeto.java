@@ -19,11 +19,11 @@ public class Objeto {
 		
 		System.out.println ("¿Qué coche es este?");
 		c.verCoche();
-		System.out.println("Vamos a arrancar el coche");
+		System.out.println("Vamos a arrancar el coche.");
 		c.arrancar();
 		System.out.println ("¿Qué coche es este?");
 		c.verCoche();
-		System.out.println("Vamos a arrancar el coche");
+		System.out.println("Vamos a arrancar el coche.");
 		c.arrancar();
 		
 		
